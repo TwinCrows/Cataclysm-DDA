@@ -1,0 +1,20 @@
+[
+  {
+    "type": "start_location",
+    "ident": "tc_Prison1",
+    "name": "Medium-Security Prison",
+    "terrain": [ "tc_Prison1secondfloor_4" ]
+  },
+  {
+    "type": "start_location",
+    "ident": "tc_Hospital1",
+    "name": "Memorial Hospital",
+    "terrain": [ "tc_Hospital_4" ]
+  },
+  {
+    "type": "start_location",
+    "ident": "tc_Tenement1",
+    "name": "Tenement Apartments",
+    "terrain": [   "tc_tenement1_floor2_1","tc_tenement1_floor2_2", "tc_tenement1_floor2_3", "tc_tenement1_floor2_4", "tc_tenement1_floor3_1", "tc_tenement1_floor3_2", "tc_tenement1_floor3_3", "tc_tenement1_floor3_4" ]
+  }
+]
